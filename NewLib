@@ -64,7 +64,7 @@ local library = {
         ['cursor'] = 1500;
     },
     stats = {
-        ['fps'] = 0;
+        ['fps'] = 2100000;
         ['ping'] = 0;
     };
     images = {
